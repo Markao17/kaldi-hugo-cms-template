@@ -1,9 +1,9 @@
 ---
-title: Our Coffee
+title: Me and you
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
-heading: What we offer
+image: /img/IMG_0187.JPG
+heading: És fofinha
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -38,7 +38,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: És Fofinha
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
@@ -90,7 +90,7 @@ pricing:
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: '8099'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
@@ -99,4 +99,5 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
